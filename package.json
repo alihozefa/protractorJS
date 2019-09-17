@@ -1,0 +1,24 @@
+{
+  "name": "protractor",
+  "dependencies": {
+    "protractor": "^5.4.2",
+    "jasmine-data-provider": "^2.2.0"
+  },
+  "scripts": {
+    "webdriver-update": "./node_modules/.bin/webdriver-manager update",
+    "webdriver-start": "./node_modules/.bin/webdriver-manager start",
+    "protractor": "./node_modules/.bin/protractor configuration.js",
+    "start": "npm run webdriver-update &&npm run webdriver-start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alihozefa/protractor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alihozefa/protractor/issues"
+  },
+  "homepage": "https://github.com/alihozefa/protractor#readme"
+}
