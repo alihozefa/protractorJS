@@ -19,3 +19,5 @@ Go to Help-> Install New Software-> copy the above URL and press Enter.. U can f
 Eclipse IDE for JavaScript and Web Developers
 Version: 2019-06 (4.12.0)
 ```
+
+Updated as a part of core traniing
